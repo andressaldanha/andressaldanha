@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B16,50:6D28D9,100:A855F7&height=220&section=header&text=Andressa%20Saldanha&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Software%20Development&descSize=18&descAlignY=58" width="100%" alt="Andressa Saldanha" />
+</div>
+  
 # Hi there! I'm Andressa Saldanha 👋
 
 ### Data Analytics | Python | SQL | Power BI
