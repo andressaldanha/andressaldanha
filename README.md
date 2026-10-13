@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B16,50:6D28D9,100:A855F7&height=220&section=header&text=Andressa%20Saldanha&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Software%20Development&descSize=18&descAlignY=58" width="100%" alt="Andressa Saldanha" />
 </div>
   
-# Hi there! I'm Andressa Saldanha 👋
+### 👩‍💻 Welcome to my GitHub!
 
 ### Data Analytics | Python | SQL | Power BI
 
@@ -19,12 +19,18 @@ I'm an Industrial Process Analyst and Industrial Mechatronics student, passionat
 
 ### 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-6D28D9?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-6D28D9?style=for-the-badge&logo=arduino&logoColor=white" />
+
+</div>
+
 
 ### 📂 Projects
 
